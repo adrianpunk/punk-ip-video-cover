@@ -62,6 +62,8 @@ styles/           # 风格库（各含 STYLE.md / PROMPT.md）
 
 ## 关于作者
 
+**Punk**
+
 AI视觉/AI小白教程<br>
 中科大硕士｜Punk Skills 作者｜3个月挣8位数<br>
 AfterNoise社群发起人
