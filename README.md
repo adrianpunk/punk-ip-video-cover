@@ -59,3 +59,11 @@ styles/           # 风格库（各含 STYLE.md / PROMPT.md）
 
 - 文章插图技能：[punk-ip-illustrations](https://github.com/adrianpunk/punk-ip-illustrations)
 - 作者：[@AdrianPunk115](https://x.com/AdrianPunk115)
+
+## 关于作者
+
+AI视觉/AI小白教程<br>
+中科大硕士｜Punk Skills 作者｜3个月挣8位数<br>
+AfterNoise社群发起人
+
+[@AdrianPunk115](https://x.com/AdrianPunk115)
